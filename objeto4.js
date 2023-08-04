@@ -22,6 +22,4 @@ jose.carrinho.push(
 )
 
 
-
-
 console.log(jose.carrinho)
